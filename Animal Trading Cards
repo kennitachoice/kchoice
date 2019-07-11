@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<link href="styles.css" rel="stylesheet">
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div class="center borders">
+		<!-- your favorite animal's name goes here -->
+		<h3 class="title">Elephants!</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src="https://www.nydailynews.com/resizer/wKVx4FFNh53u1C3Xg0-ff8ZGkBc=/800x533/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RXL4YNVXEBBMBARNZIARFCERFA.jpg>
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class="if">Elephants are smart,emotional,self aware, and highly social creatures </p>
+			<ul>
+				<!-- your favorite animal's list items go here -->
+				<li><span class="lab">Diet:</span> Elephants are herbivores (vegetarians) eating a diet of grass,fruits, leaves,twigs,and tree bark </li>
+				<li><span class="lab">Ears:</span> When flapped, they act as big fans. Cooling the blood that runs close to the surface behind their ears </li>
+				<li><span class="lab">Average Emotions:</span> Elephants are highly sensitive, and caring animals. If a baby Elephant complains, the entire family will go over to touch, caress and soothe it </li>
+				<li><span class="lab">Weight: </span> An Elephants trunk weighs around 400 pounds, and contains around 100,000 different muscles</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p> Elephants can give birth until they're 50 years old. An elephants life expectancy is 60-70 years old. The oldest on record-- An Asian Elephant named Lin Wang-- Died at the ripe age of 86  </p>
+		</div>
+	</div>
+</body>
+</html>
